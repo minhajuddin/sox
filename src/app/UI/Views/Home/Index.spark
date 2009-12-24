@@ -1,0 +1,6 @@
+<global Title="'Sox'" type='string' />
+<set Title='string.Format("{0} -- Index",Title)' />
+<viewdata model='object' />
+<h1>
+	Welcome to Sox
+</h1>
